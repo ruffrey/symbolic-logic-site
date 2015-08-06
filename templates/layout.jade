@@ -46,7 +46,9 @@ html(lang='en')
             p &copy; #{ new Date().getFullYear() } #{ locals.owner }
               br
               a(href='http://symboliclogic.io') Symbolic Logic
-            p Source code on this website is licensed under the&nbsp;
+            p 
+                a(href='https://github.com/ruffrey/symbolic-logic-site') Source code on this website
+                |  is licensed under the&nbsp;
                 a(href='/license.html') MIT public license
                 | .
     if (process.env.IS_BUILDING)
