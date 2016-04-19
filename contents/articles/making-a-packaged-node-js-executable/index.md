@@ -8,7 +8,7 @@ template: article.jade
 After 5 years in Node land, there's nothing sadder than taking hours
 to deploy your new app. It was a breeze to develop and run locally.
 Throwing it on staging or production can become a beast of a task
-if you aren't careful. There are so many guides
+if you aren't careful. There are so many guides with complicated deploy and server setup patterns, because Node and npm, plus build tools need to be installed on the server.
 
 Easy deploys and easy rollbacks are my goal here. I usually just
 don't want to hassle with a bunch of infrastructure. Docker is
