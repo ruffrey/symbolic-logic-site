@@ -12,11 +12,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "async": "^1.4.0",
-    "gcloud": "^0.16.0",
-    "glob": "^5.0.14",
-    "moment": "2.3.x",
-    "typogr": "0.5.x",
-    "underscore": "1.4.x"
+    "async": "^2.0.0-rc.3",
+    "gcloud": "^0.30.3",
+    "glob": "^7.0.3",
+    "moment": "^2.13.0",
+    "typogr": "^0.6.6",
+    "underscore": "^1.8.3"
   }
 }
