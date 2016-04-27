@@ -7,7 +7,7 @@ template: article.jade
 <p style="text-align: center">
     <img
         alt="sacramento node.js and javascript developer"
-        style="width: 189px; height: 178px; display: inline"
+        style="width: 189px; height: 178px; display: inline; border-radius: 5px"
         src="/images/jeff-h-parrish-sacramento-california-nodejs-javascript.png" />
 </p>
 
@@ -15,68 +15,85 @@ template: article.jade
 
 [linkedin.com/in/jeffhparrish](https://www.linkedin.com/in/jeffhparrish)
 
-Proficient, fast moving business-savvy full stack JavaScript developer
+Proficient, fast moving full stack JavaScript developer,
 with a C# background and grounded user experience principles.
 
 My ideal team has great camaraderie, gets things done, enjoys their
-work, and helps manage their own infrastructure.
+work, and helps manage their own infrastructure with simple tools and documented processes.
 
 ## Core skills
 
-- JavaScript - many years
-- HTML, CSS, LESS, SCSS - many years
-- Node.js - 4 years
-- Angular.js - 2.5 years
-- MongoDB - 3 years
-- Nodewebkit / nw.js (desktop JavaScript apps) - 2 years
+- JavaScript - 5+ years
+- Golang ~ 1 year
+- React.js - 1 year
+- HTML, CSS, LESS, SCSS - so much
+- Node.js - 5+ years
+- Angular.js 1.x - 3 years
+- MongoDB - 4 years
+- Nodewebkit / nw.js / electron (desktop JavaScript apps) - 3 years
 - C# / .NET / Mono - 2 years
-- JSON REST API development - 4 years
+- JSON REST API development - 5+ years
+
+## Interests
 - Building MVPs and prototyping
+- New databases and custom caching or database microservices
 - Data visualization / analytics / graphing / D3
+- Node.js, Golang, React with Redux
+- React native
 - Mocha / automated testing
-- UX
-- JavaScript build tools - Grunt, Gulp, etc
+- UX bikeshedding
+- Overly simplistic implementations
 - Estimating / delivering on time
-- Numerous software side projects
+- Easy deployments
 
 ## Other skills
 
 - Excellent communication
 - Productive, efficient remote worker
 - Payments
-    - Stripe, PayPal, Forte
+    - Stripe, PayPal, Forte, Braintree
 - Redis
 - CouchDB
 - SQL
 - Shell scripting
 - DevOps
+    - is a state of mind
     - shell scripting
     - Google Cloud Platform
     - Jenkins, Bamboo
 - Git, GitHub, BitBucket, Stash
 - Project management
     - Agile, sprint planning, sprint cell lead
-    - Jira
-    - Assembla
+    - Jira, Assembla, etc
     - Kanban
-- SMTP
+- SMTP, building TCP services
 
 ## Experience
 
+### Software Developer for ClickVox (Digium Inc)
+#### 2016
+
+Bringing phone communications into the 21st century. Building a
+mobile-first platform for small businesses to collaborate triaging inbound calls, making
+outbound calls, and messaging, via iOS and Android mobile apps.
+
+Node.js microservices and mobile apps interfacing with scalably hosted
+[Asterisk](http://www.asterisk.org) instances. React-Redux, MySQL, Respoke
+platform integrations, scrum and kanban.
+
 ### Senior Developer for Respoke (Digium Inc)
-#### 2014 - 2015
+#### 2014 - 2016
 
 Full stack developer building a WebRTC and phone system PaaS developer
 platform. Built several frontend properties - developer tools, marketing,
 documentation generation - in Angular
-with Node.js build processes. Microservice backend API coding
+with Node.js build processes. Microservice backend API development
 in Node.js wth MySQL, Redis.
 
-Currently lead full stack developer on a WebRTC based Slack/Hipchat
+Lead full stack developer on a WebRTC based Slack/Hipchat
 clone that includes screensharing, audio conferencing, video chat, automatic
-meme generation, emoji, and file
-sharing (soon to be released, internal use for 9 months). Node.js, Angular 1.x,
-MongoDB.
+meme generation, emoji, instant video-to-gif sharing,
+and file sharing. Node.js, Angular 1.x, MongoDB, scrum, kanban.
 
 
 ### Senior Developer and Project Manager (Clevertech)
@@ -141,20 +158,22 @@ Speaking and training for schools and parents.
 Developed practice management software for mental health as a side project,
 which eventually blossomed into a software development career.
 
-## Notable projects
+## Some projects
 
 * [Respoke](https://www.respoke.io) libraries,
 [developer portal](https://portal.respoke.io),
 and [docs](https://docs.respoke.io)
-    - partly open source
-    - https://github.com/respoke/style
-    - https://github.com/respoke/docs
-    - https://github.com/respoke/node-respoke-admin
-    - https://github.com/respoke/respoke
+    - Some things were open source:
+        - https://github.com/respoke/style
+        - https://github.com/respoke/docs
+        - https://github.com/respoke/node-respoke-admin
+        - https://github.com/ruffrey/dotnet-respoke-admin
+        - https://github.com/respoke/respoke
+        - early version of [ApolloHD](https://github.com/respoke/apollo)
 * [ApolloHD realtime collaboration (pre-release)](https://www.apollohd.com)
 * [Experimental key-value store atop LMDB](https://github.com/ruffrey/kval)
 * [Practice management for mental health](https://www.psychscribbles.com)
-* [Mailsac disposable email](https://mailsac.com)
+* [Mailsac disposable email and email testing](https://mailsac.com)
 * [Home security system from any webcam](https://github.com/ruffrey/homesec)
 
 ## Education
@@ -163,8 +182,8 @@ and [docs](https://docs.respoke.io)
 - BA Philosophy, CSUS 2008
 - Masters Social Work, CSUS 2011
 - ~3 year student neuroscience lab assistant
-- many books and online programming courses
-
+- online programming courses
+- avid consumer of programming and startup blogs, books, and podcasts
 
 
 ## References
