@@ -15,6 +15,8 @@ template: article.jade
 
 [linkedin.com/in/jeffhparrish](https://www.linkedin.com/in/jeffhparrish)
 
+[Google Doc CV](https://docs.google.com/document/d/1Ga0IKdZjy0_GHZat-eVkVyIkYbf-3JNBoP5EMy8ALso/edit?usp=sharing)
+
 Proficient, fast moving full stack JavaScript developer,
 with a C# background and grounded user experience principles.
 
