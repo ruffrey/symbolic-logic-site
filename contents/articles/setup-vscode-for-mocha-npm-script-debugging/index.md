@@ -36,7 +36,7 @@ to launch the things. So for example, in `package.json`:
 
 ```json
 {
-    scripts: {
+    "scripts": {
         "mocha": "mocha"
     }
 }
@@ -44,17 +44,15 @@ to launch the things. So for example, in `package.json`:
 
 and in `.vscode/launch.json`:
 
+###### `npm run mocha`: use a hardcoded path to your npm exe. You can obtain it from the terminal with `which npm`.
+
 ```json
 {
     "name": "mocha",
     "type": "node",
     "request": "launch",
-    /**
-     * Hardcoded path to your npm exe. You can obtain it from the terminal with `which npm`.
-     */
     "program": "/Users/jeffparrish/.nvm/versions/node/v6.3.1/bin/npm",
     "stopOnEntry": false,
-    /* npm run mocha */
     "args": ["run", "mocha"],
     "cwd": "${workspaceRoot}",
     "env": {
@@ -78,7 +76,7 @@ or:
 ###### DOES NOT WORK
 ```json
 {
-    "program": "${workspaceRoot}/node_modules/.bin/mocha", /* or _mocha */
+    "program": "${workspaceRoot}/node_modules/.bin/mocha",
 }
 ```
 
