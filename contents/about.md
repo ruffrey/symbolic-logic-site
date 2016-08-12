@@ -2,15 +2,17 @@
 view: none
 ---
 
-**Symbolic Logic** is a small business development company in Sacramento, California
-run by Jeff Parrish.
+Hi, my name is Jeff Parrish and **Symbolic Logic** is a small software development
+shop in Sacramento, California.
 
-Lean, minimum viable solutions are a way of life. The route to a solid MVP
-means sticking to goals and deadlines, letting go of distractions,
-and adjusting to customer feedback.
+I enjoy attacking hard problems with simplicity and compromise. Experienced with
+engineering user experiences, REST and socket based APIs (TCP, RPC, Web Sockets),
+email/SMTP, WebRTC, and learning more about voice-over-IP every day.
 
-One or two developers with the right skills and mindset can outproduce
-a large team. This is the foundation of Symbolic Logic.
+The toolset du jour is Node.js, React.js, and Golang.
+
+Successful projects mean sticking to goals and deadlines, letting go of distractions,
+and adjusting to customer feedback. Writing code is the easy and fun part.
 
 Some projects:
 
